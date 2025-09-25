@@ -1,32 +1,45 @@
-### مرحبًا 👋
+### Hi there 👋
 
-أنا عبد القادر، مطور برامج محترف أعمل بلغة بايثون، دارت (Flutter)، وأيضا مهتم بالدارة (Arduino). أحب بناء تطبيقات ذكية ومشاريع برمجية متنوعة تناسب الاحتياجات العملية.
+I'm **Abdulqader**, a software developer passionate about building smart and efficient applications using **Python**, **Dart/Flutter**, and **Arduino**. I love turning ideas into real projects that solve problems and enhance user experiences.
 
-:computer: أحب تطوير مشاريع برمجية باستخدام:
-<br><br>
+---
+
+### 🛠️ Technologies & Tools I Use
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-%232A82DA.svg?style=for-the-badge&logo=arduino&logoColor=white)
 
-:star: بعض المشاريع التي أعمل عليها حاليا:
-- [مشروع إدارة الأجهزة الذكية](https://github.com/yourgithub/smart-devices-management)
-- [تطبيق Flutter لتعليم البرمجة](https://github.com/yourgithub/flutter-learning-app)
-- [برامج تحكم بالدارة](https://github.com/yourgithub/arduino-projects)
-- [مشروع تحليل البيانات باستخدام بايثون](https://github.com/yourgithub/python-data-analysis)
+---
+
+### 🚀 Current Projects
+
+- [Smart Device Management](https://github.com/yourgithub/smart-devices-management) – Controlling and automating smart devices using Arduino and Python.
+- [Flutter Learning App](https://github.com/yourgithub/flutter-learning-app) – A mobile app to teach programming concepts interactively.
+- [Arduino Automation Projects](https://github.com/yourgithub/arduino-projects) – Various Arduino-based hardware control systems.
+- [Python Data Analysis](https://github.com/yourgithub/python-data-analysis) – Data analytics tools and scripts using Python.
+
+---
+
+### 📊 GitHub Stats
 
 <details>
-<summary>:trophy: إحصائياتي على GitHub</summary>
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=yourgithubusername" alt="GitHub stats">
-<img src="https://github-profile-trophy.vercel.app/?username=yourgithubusername" alt="GitHub trophies">
+  <summary>Click to expand</summary>
+  
+  <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=yourgithubusername" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yourgithubusername" alt="GitHub Trophies" />
 </details>
 
-<br>
+---
 
-أنا متحمس لتعلم كل جديد في عالم البرمجة وتطوير المشاريع المبتكرة. لا تتردد في التواصل معي!
+### 📫 How to Reach Me
 
-<br><br>
-<a href="https://t.me/yourtelegram" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40yourtelegram-28a8ea"></a>
-<a href="https://linkedin.com/in/yourlinkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-yourlinkedin-informational"></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-your.email@example.com-orange"></a>
-<a href="https://yourwebsite.dev" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-yourwebsite.dev-red"></a>
+[![Telegram](https://img.shields.io/badge/Telegram-%40yourtelegram-28a8ea?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourtelegram)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)  
+[![Email](https://img.shields.io/badge/Email-your.email%40example.com-orange?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+[![Website](https://img.shields.io/badge/Website-yourwebsite.dev-red?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.dev)
+
+---
+
+Thank you for visiting my profile! Feel free to reach out if you want to collaborate or have any questions.
